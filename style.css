@@ -1,0 +1,88 @@
+body
+{
+  margin: 0 0;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+em
+{
+  font-size:15px;
+}
+ul{
+  list-style: none;
+}
+.logo{
+  width:10%;
+  border-radius: 10%;
+}
+
+#feature
+{
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+  text-align: center;
+  font-size: 10px;
+  padding:4% 4%;
+}
+#quotes
+{
+  text-align: center;
+  padding:12% 4%;
+  background-color: skyblue;
+}
+#product
+{ border-style: solid;
+  border-width: thin;
+    border-color: skyblue;
+  background-color: skyblue;
+  text-align: center;
+  padding: 4% 4%;
+
+}
+#clients
+{
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+  text-align: center;
+  padding: 3% 3%;
+
+}
+#footer
+{
+  text-align: center;
+  color: white;
+}
+.card
+{
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+}
+.card-header
+{
+  background-color:skyblue;
+}
+.btn{
+  background-color: skyblue;
+  width:200px;
+  height:line;
+}
+.prohead
+{
+  width:100%;
+}
+.comlogo
+{
+  width:10%;
+}
+.socang
+{
+  padding:8% 1% 4% 1%;
+}
+.socio
+{
+  padding:1% 1%;
+  width:4%;
+}
